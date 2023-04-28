@@ -1,0 +1,84 @@
+[
+    {
+        "title":"Why We Use &lt;br&gt; Element ?",
+        "answer_1":"To Make Text Bold",
+        "answer_2":"To Make Text Italic",
+        "answer_3":"To Add Break Line",
+        "answer_4":"To Add Horizontal Line",
+        "right_answer":"To Add Break Line"
+    },
+    {
+        "title":"Is &lt;img&gt; Element Has Attribute href ?",
+        "answer_1":"Yes",
+        "answer_2":"No It's For Anchor Tag",
+        "answer_3":"All Elemnts Has This Attribute",
+        "answer_4":"A And B Right",
+        "right_answer":"No It's For Anchor Tag"
+    },
+    {
+        "title":"How Can We Make Text Element Bold ?",
+        "answer_1":"Use &lt;b&gt; Tag",
+        "answer_2":"Use &lt;strong&gt; Tag",
+        "answer_3":"Customizing it With Css",
+        "answer_4":"All Is Right",
+        "right_answer":"All Is Right"
+    },
+    {
+        "title":"What Is The Right Hierarchy For Creating Part Of Page ?",
+        "answer_1":"&lt;h2&gt; Then &lt;p&gt; Then &lt;h1&gt; Then &lt;p&gt; Then &lt;h3&gt; Then &lt;p&gt; Then &ltimg&gt;",
+        "answer_2":"&lt;h1&gt; Then &lt;p&gt; Then &lt;h3&gt; Then &lt;p&gt; Then &lt;h2&gt; Then &lt;p&gt; Then &lt;img&gt;",
+        "answer_3":"&lt;h2&gt; Then &lt;p&gt; Then &lt;h3&gt; Then &lt;p&gt; Then &lt;h1&gt; Then &lt;p&gt; Then &lt;img&gt;",
+        "answer_4":"All Is Wrong",
+        "right_answer":"All Is Wrong"
+    
+    },
+    {
+
+        "title":"How Can We Include External Page Insid Html Page ?",
+        "answer_1":"By Using Include In Html",
+        "answer_2":"By Using Load In Html",
+        "answer_3":"By Using Iframe Tag In Html",
+        "answer_4":"All Is Wrong",
+        "right_answer":"By Using Iframe Tag In Html"
+    },
+
+    {
+        "title":"What Is The Tag That Not Exists In Html ?",
+        "answer_1":"&lt;object&gt;",
+        "answer_2":"&lt;basefont&gt;",
+        "answer_3":"&lt;abbr&gt;",
+        "answer_4":"All Tags Are Exists In Html",
+        "right_answer":"All Tags Are Exists In Html"
+    },
+        
+   
+    {
+        "title":"How We Specify Document Type Of Html5 Page ?",
+        "answer_1":"&lt;Doctype html&gt;",
+        "answer_2":"&lt;Doctype html5&gt;",
+        "answer_3":"&lt;!Doctype html5&gt;",
+        "answer_4":"!Doctype html",
+        "right_answer":"!Doctype html"
+    },
+    {
+        "title":"In Html Can We Use This Way To Add Attributes ?",
+        "answer_1":"&lt;div class='class-name'&gt;",
+        "answer_2":"&lt;div class=class-name&gt;",
+        "answer_3":"&lt;div class=\"class-name\"&gt;",
+        "answer_4":"All Is Right",
+        "right_answer":"All Is Right"
+    },
+    {
+        "title":"What Is The Elemnts Thats Not Exists In Html5 Semantics ?",
+        "answer_1":"&lt;article&gt;",
+        "answer_2":"&lt;blockqoute&gt;",
+        "answer_3":"&lt;section&gt;",
+        "answer_4":"&lt;aside&gt;",
+        "right_answer":"<blockqoute>"
+    }
+    
+]
+
+
+
+

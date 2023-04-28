@@ -1,0 +1,80 @@
+[
+    {
+        "title":"What is JavaScript?",
+        "answer_1":"A markup language",
+        "answer_2":"A database language",
+        "answer_3":"A programming language",
+        "answer_4":"A styling language",
+        "right_answer":"A programming language"
+    },
+    {
+        "title":"What is the syntax for creating a function in JavaScript?",
+        "answer_1":"function = myFunction()",
+        "answer_2":"function myFunction()",
+        "answer_3":"function:myFunction()",
+        "answer_4":"myFunction() = function",
+        "right_answer":"function myFunction()"
+    },
+    {
+        "title":"Which keyword is used to declare a variable in JavaScript?",
+        "answer_1":"var",
+        "answer_2":"let",
+        "answer_3":"const",
+        "answer_4":"All Is Right",
+        "right_answer":"All Is Right"
+    },
+    {
+        "title":"Which operator is used to compare two values and types in JavaScript?",
+        "answer_1":"==",
+        "answer_2":"!=",
+        "answer_3":"&lt;h&gt;",
+        "answer_4":"===",
+        "right_answer":"==="
+    
+    },
+    {
+
+        "title":"What is the output of the following code: console.log(2 + 2 + '2')?",
+        "answer_1":"42",
+        "answer_2":"6",
+        "answer_3":"22",
+        "answer_4":"Error",
+        "right_answer":"42"
+    },
+
+    {
+        "title":"What is the output of the following code: console.log(typeof('Hello World'))?",
+        "answer_1":"boolean",
+        "answer_2":"undefined",
+        "answer_3":"string",
+        "answer_4":"number",
+        "right_answer":"string"
+    },
+        
+   
+    {
+        "title":"Which method is used to add a new element to an array in JavaScript?",
+        "answer_1":"add()",
+        "answer_2":"push()",
+        "answer_3":"concat()",
+        "answer_4":"insert()",
+        "right_answer":"push()"
+    },
+    {
+        "title":"What is the output of the following code: console.log(10 % 3)?",
+        "answer_1":"10",
+        "answer_2":"3",
+        "answer_3":"1",
+        "answer_4":"0",
+        "right_answer":"1"
+    },
+    {
+        "title":"What is the keyword used to end a loop in JavaScript?",
+        "answer_1":"next",
+        "answer_2":"end",
+        "answer_3":"&lt;section&gt;",
+        "answer_4":"break",
+        "right_answer":"break"
+    }
+    
+]

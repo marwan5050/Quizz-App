@@ -1,0 +1,85 @@
+[
+    {
+        "title":"What does CSS stand for?",
+        "answer_1":"Cascading Style Sheets",
+        "answer_2":"Creative Style Sheets",
+        "answer_3":"Computer Style Sheets",
+        "answer_4":"Colorful Style Sheets",
+        "right_answer":"Cascading Style Sheets"
+    },
+    {
+        "title":"Which CSS property is used to change the background color?",
+        "answer_1":"color",
+        "answer_2":"background-color",
+        "answer_3":"bgcolor",
+        "answer_4":"background",
+        "right_answer":"background-color"
+    },
+    {
+        "title":"Which CSS property is used to set the text color?",
+        "answer_1":"text-color",
+        "answer_2":"color",
+        "answer_3":"font-color",
+        "answer_4":"background-color",
+        "right_answer":"color"
+    },
+    {
+        "title":"Which CSS property is used to set the font size?",
+        "answer_1":"font-style",
+        "answer_2":"font-size",
+        "answer_3":"font-family",
+        "answer_4":"text-size",
+        "right_answer":"font-size"
+    
+    },
+    {
+
+        "title":"Which CSS property is used to set the font family?",
+        "answer_1":"font-style",
+        "answer_2":"font-size",
+        "answer_3":"text-family",
+        "answer_4":"font-family",
+        "right_answer":"font-family"
+    },
+
+    {
+        "title":"Which CSS property is used to add space between elements?",
+        "answer_1":"padding",
+        "answer_2":"margin",
+        "answer_3":"border",
+        "answer_4":"spacing",
+        "right_answer":"margin"
+    },
+        
+   
+    {
+        "title":"Which CSS property is used to change the border color?",
+        "answer_1":"border-style",
+        "answer_2":"border-colors",
+        "answer_3":"border-color",
+        "answer_4":"border-width",
+        "right_answer":"border-color"
+    },
+    {
+        "title":"Which CSS property is used to make text bold?",
+        "answer_1":"bold",
+        "answer_2":"text-weight",
+        "answer_3":"font-size",
+        "answer_4":"font-weight",
+        "right_answer":"font-weight"
+    },
+    {
+        "title":"Which CSS property is used to set the width of an element?",
+        "answer_1":"size",
+        "answer_2":"width",
+        "answer_3":"height",
+        "answer_4":"length",
+        "right_answer":"width"
+    }
+    
+]
+
+
+
+
+
